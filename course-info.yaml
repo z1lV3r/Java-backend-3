@@ -1,0 +1,13 @@
+type: marketplace
+title: Java backend 3
+language: English
+summary: Java backend 3
+programming_language: Java
+content:
+  - Java
+  - Software design
+mode: Study
+environment_settings:
+  jvm_language_level: JDK_1_8
+vendor:
+  name: Hugo Villanueva Jiménez
